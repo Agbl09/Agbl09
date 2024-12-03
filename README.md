@@ -1,6 +1,6 @@
 # 👋 Olá, sou Gabriela Rodrigues!
 
-Sou aluna de curso técnico em **Análise e Desenvolvimento de Sistemas**, me formando pelo **Senac RS EAD**, com experiência em linguagens de programação e desenvolvimento web. Estou sempre em busca de novos desafios e tecnologias inovadoras, como **Inteligência Artificial**.
+Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me formando pelo **Senac RS EAD**, com experiência em linguagens de programação e desenvolvimento web. Estou sempre em busca de novos desafios e tecnologias inovadoras, como **Inteligência Artificial**.
 
 <div align="center">
 
