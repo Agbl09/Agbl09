@@ -17,12 +17,20 @@ Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me fo
 - 📈 Experiência com testes automatizados e configuração de servidores simulados.
 
 ---
-<img alt="Status" align="left" width="47%"   src="https://github-readme-stats.vercel.app/api?username=Agbl09&show_icons=true"/>
-<br> 
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agbl09&layout=compact"/> <br>
+<img alt="Status" align="left" width="47%"   src="https://github-readme-stats.vercel.app/api?username=Agbl09&show_icons=true"/>
 
 ---
+
+<br> 
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agbl09&layout=compact"/>
+
+---
+
+<br>
+
+
 
 ## 💡 Tecnologias e Ferramentas
 - **Linguagens:** 
