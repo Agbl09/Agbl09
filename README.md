@@ -57,7 +57,7 @@ Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me fo
 
 <p> Obrigado por visitar meu perfil! 😊</p> 
 
-![Obrigada](https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc)
+![Obrigada](https://media.tenor.com/aUcOFyL_3yUAAAAi/anime.gif)
 
 </div>
 
