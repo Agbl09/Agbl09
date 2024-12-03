@@ -19,18 +19,12 @@ Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me fo
 ---
 
 <img alt="Status" align="left" width="47%"   src="https://github-readme-stats.vercel.app/api?username=Agbl09&show_icons=true"/>
-
----
-
 <br> 
 
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agbl09&layout=compact"/>
-
----
-
 <br>
 
-
+---
 
 ## 💡 Tecnologias e Ferramentas
 - **Linguagens:** 
