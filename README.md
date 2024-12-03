@@ -16,8 +16,6 @@ Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me fo
 - 📖 Atualmente aprendendo **Node.js**, **JUnit**, e **MySQL**.  
 - 📈 Experiência com testes automatizados e configuração de servidores simulados.
 
----
-
 <img alt="Status" align="left" width="47%"   src="https://github-readme-stats.vercel.app/api?username=Agbl09&show_icons=true"/>
 <br> 
 
