@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="file:///C:/Users/Gabriela/OneDrive/Imagens/Captura%20de%20tela%202024-12-03%20174152.png" alt="Banner do perfil">
-</p>
+<div align="center">
+
+![Banner](https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc)
+
+</div>
 
 # 👋 Olá, sou Gabriela Rodrigues!
 
