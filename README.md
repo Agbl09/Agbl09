@@ -53,10 +53,13 @@ Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me fo
 
 ---
 
-<p align="center">
-  Obrigado por visitar meu perfil! 😊  
-  <img src="https://via.placeholder.com/120.png?text=🎉" alt="Celebration emoji">
-</p>
+<div align="center">
+
+<p> Obrigado por visitar meu perfil! 😊</p> 
+
+![Obrigada](https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc)
+
+</div>
 
 
 
