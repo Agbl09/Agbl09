@@ -10,6 +10,11 @@ Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me fo
 
 ---
 
+<img alt="Status" align="left" width="47%"   src="https://github-readme-stats.vercel.app/api?username=Agbl09&show_icons=true"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agbl09&layout=compact"/> <br>
+
+
 ## 🚀 Sobre mim
 - 💻 Estudando: IA, Desenvolvimento Web e Banco de Dados.  
 - 🎯 Foco: Sistemas de Informação e desenvolvimento de projetos impactantes.  
@@ -19,10 +24,22 @@ Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me fo
 ---
 
 ## 💡 Tecnologias e Ferramentas
-- **Linguagens:** Java e JavaScript.  
-- **Frameworks e Ferramentas:** Node.js, Maven, Git, GitHub.  
-- **Banco de Dados:** MySQL.  
-- **Testes:** JUnit, JSON Server.  
+- **Linguagens:** 
+  - ![Java](https://img.shields.io/badge/Java-F8F8F8?style=for-the-badge&logo=java&logoColor=007396)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+
+- **Frameworks e Ferramentas:** 
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white) 
+
+- **Banco de Dados:** 
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+
+- **Testes:** 
+  - ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white) 
+  - ![JSON Server](https://img.shields.io/badge/JSON%20Server-000000?style=for-the-badge&logo=json&logoColor=white) 
 
 ---
 
@@ -48,7 +65,6 @@ Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me fo
 <p>
   <a href="mailto:gabriela.souza.investimentos@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/gabriela-rodrigues-agbl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Agbl09"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
