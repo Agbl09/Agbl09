@@ -45,11 +45,11 @@ Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me fo
 ---
 
 ## 📌 Projetos em Destaque
-### 🎨 [Website de Recreação Infantil](#)
+### 🎨 [Website de Recreação Infantil](https://github.com/Agbl09/Site-Recreacao-Infantil)
 - Criação de um site funcional e moderno para uma empresa de recreação infantil.  
 - Tecnologias: HTML5, CSS3, imagens livres de direitos autorais.  
 
-### 🏥 [Sistema de Clínica](#)
+### 🏥 [Sistema de Clínica](https://github.com/Agbl09/Sistema-Clinica)
 - Software completo para gestão de pacientes e consultas.  
 - Tecnologias: Java, MySQL, Maven, JUnit.  
 
