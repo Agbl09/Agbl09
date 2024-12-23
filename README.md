@@ -27,8 +27,11 @@ Sou aluna do curso técnico em **Análise e Desenvolvimento de Sistemas**, me fo
 ## 💡 Tecnologias e Ferramentas
 - **Linguagens:** 
   - ![Java](https://img.shields.io/badge/Java-F8F8F8?style=for-the-badge&logo=java&logoColor=007396)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    
+- **Desenvolvimento Web:** 
+  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    
 - **Frameworks e Ferramentas:** 
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
