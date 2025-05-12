@@ -16,9 +16,12 @@ Sou técnica em **Análise e Desenvolvimento de Sistemas**, formada pelo **Senac
 - 📖 Atualmente aprendendo **Node.js**, **JUnit**, e **MySQL**.  
 - 📈 Experiência com testes automatizados e configuração de servidores simulados.
 
-<img alt="Status" align="left" width="47%"   src="https://github-readme-stats.vercel.app/api?username=Agbl09&show_icons=true"/>
+---
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agbl09&layout=compact"/>
+## 📊 My Stats
+<img alt="Status" align="left" height="180em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Agbl09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img alt="top langs" align="left" height="180em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agbl09&layout=compact&langs_count=7&theme=dracula"/>
 
 <br clear="both">
 
@@ -59,6 +62,7 @@ Sou técnica em **Análise e Desenvolvimento de Sistemas**, formada pelo **Senac
 - Configuração de serviços simulados usando JSON Server para exibição de dados dinâmicos.  
 - Estudos para vestibulares como ENEM, Fuvest e Fatec.
 
+![Snake animation](https://github.com/Agbl09/Agbl09/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Contact
