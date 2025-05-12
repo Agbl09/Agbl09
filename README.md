@@ -62,7 +62,6 @@ Sou técnica em **Análise e Desenvolvimento de Sistemas**, formada pelo **Senac
 - Configuração de serviços simulados usando JSON Server para exibição de dados dinâmicos.  
 - Estudos para vestibulares como ENEM, Fuvest e Fatec.
 
-![Snake animation](https://github.com/Agbl09/Agbl09/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Contact
