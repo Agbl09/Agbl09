@@ -16,6 +16,30 @@ Sou técnica em **Análise e Desenvolvimento de Sistemas**, formada pelo **Senac
 - 📖 Atualmente aprendendo **Node.js**, **JUnit**, e **MySQL**.  
 - 📈 Experiência com testes automatizados e configuração de servidores simulados.
 
+### 💡 Technologies and Tools
+-
+  <body>
+    <img styles="display: inline-block;" src="https://img.shields.io/badge/Java-F8F8F8?style=for-the-badge&logo=java&logoColor=007396">
+ 
+    <img styles="display: inline-block;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  
+    <img styles="display: inline-block;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+ 
+    <img styles="display: inline-block;" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  
+    <img styles="display: inline-block;" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+  
+    <img styles="display: inline-block;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+ 
+    <img styles="display: inline-block;" src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white">
+  
+    <img styles="display: inline-block;" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  
+    <img styles="display: inline-block;" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white">
+  
+    <img styles="display: inline-block;" src="https://img.shields.io/badge/JSON%20Server-000000?style=for-the-badge&logo=json&logoColor=white">
+  </body>
+
 ---
 
 ## 📊 My Stats
@@ -27,28 +51,6 @@ Sou técnica em **Análise e Desenvolvimento de Sistemas**, formada pelo **Senac
 
 ---
 
-## 💡 Technologies and Tools
-- **Linguagens:** 
-  - ![Java](https://img.shields.io/badge/Java-F8F8F8?style=for-the-badge&logo=java&logoColor=007396)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    
-- **Desenvolvimento Web:** 
-  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    
-- **Frameworks e Ferramentas:** 
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white) 
-
-- **Banco de Dados:** 
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-
-- **Testes:** 
-  - ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white) 
-  - ![JSON Server](https://img.shields.io/badge/JSON%20Server-000000?style=for-the-badge&logo=json&logoColor=white) 
-
----
 
 ## 📌 Featured Projects
 ### 🎨 [Website de Recreação Infantil](https://github.com/Agbl09/Site-Recreacao-Infantil)
