@@ -77,7 +77,7 @@
   Estudos para vestibulares como ENEM, Fuvest e Fatec.<br>
 </div>
 
-  ![Snake animation](https://raw.githubusercontent.com/Agbl09/Agbl09/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Agbl09/Agbl09/output/github-contribution-grid-snake-dark.svg)
   
 ---
 
